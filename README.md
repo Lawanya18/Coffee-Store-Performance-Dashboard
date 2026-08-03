@@ -62,7 +62,13 @@ The dataset was cleaned before analysis to ensure accurate reporting and dashboa
 - Business Analysis
 - Data Visualization
 
-📊 Key Performance Indicators
+📊 Dashboard Preview
+
+
+![Coffee Store Performance Dashboard](dashboard.png)
+
+
+📈 Key Performance Indicators
 
 - Total Sales
 - Total Profit
