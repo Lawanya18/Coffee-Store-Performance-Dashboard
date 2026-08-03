@@ -64,9 +64,7 @@ The dataset was cleaned before analysis to ensure accurate reporting and dashboa
 
 📊 Dashboard Preview
 
-
-![Coffee Store Performance Dashboard](dashboard.png)
-
+https://github.com/Lawanya18/Coffee-Store-Performance-Dashboard/blob/main/Dashboard.png
 
 📈 Key Performance Indicators
 
