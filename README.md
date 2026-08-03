@@ -1,5 +1,7 @@
 # ☕ Coffee Store Performance Dashboard
 
+Interactive Excel Dashboard for Sales, Profitability & Business Performance Analysis
+
 ---------------------------------
 
 📌 Project Overview
